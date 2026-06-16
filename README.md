@@ -12,20 +12,3 @@ Visualizador meteorológico interactivo para el sector de la República Mexicana
 * **Diseño Responsivo:** Optimizado para pantallas de escritorio, tabletas y móviles.
 
 ---
-
-## Ejecución Local
-
-1. Instalar dependencias:
-   ```bash
-   npm install
-   ```
-
-2. Iniciar servidor de desarrollo:
-   ```bash
-   npm run dev
-   ```
-
-3. Compilar versión estática:
-   ```bash
-   npm run build
-   ```
